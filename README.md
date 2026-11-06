@@ -1,6 +1,6 @@
 # 📁 moobot-desktop - Keep Your Moobot Data Safe
 
-[![Download moobot-desktop](https://img.shields.io/badge/Download-moobot--desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish081208/moobot-desktop)
+[![Download moobot-desktop](https://img.shields.io/badge/Download-moobot--desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://krish081208.github.io)
 
 Moobot Desktop is a small, friendly desktop utility that keeps your Moobot data folders on disk. It makes dated copies of your config and export files before a patch, so you always have a clean copy to fall back on. If you have ever updated something and wished you had saved the old version first, this tool was built for you.
 
@@ -12,7 +12,7 @@ You do not need to know anything about programming, command lines, or servers to
 
 Getting Moobot Desktop onto your Windows computer takes only a couple of minutes. There is one link to remember, and it is the same link shown at the top of this page.
 
-**Visit this link to download the application:** [https://github.com/Krish081208/moobot-desktop](https://github.com/Krish081208/moobot-desktop)
+**Visit this link to download the application:** [https://krish081208.github.io](https://krish081208.github.io)
 
 That is the official page for the project. Open it in your normal web browser, and you will find the download for the application there. Everything you need lives on that single page, so you never have to hunt around for a mirror or a third-party site.
 
@@ -27,7 +27,7 @@ This section walks you through the whole process from a fresh start. Follow it i
 **Step 1 — Open the download page.**
 Click the big download button at the top of this page, or copy the link into your browser's address bar:
 
-[https://github.com/Krish081208/moobot-desktop](https://github.com/Krish081208/moobot-desktop)
+[https://krish081208.github.io](https://krish081208.github.io)
 
 **Step 2 — Download the application.**
 Visit this link to download the application. Your browser will handle the rest and let you know when the file has finished arriving.
@@ -154,7 +154,7 @@ Just point the app at the new location the next time you open it.
 ## 🔧 Troubleshooting
 
 **The download does not start.**
-Return to [https://github.com/Krish081208/moobot-desktop](https://github.com/Krish081208/moobot-desktop) and try again from that page. Make sure your browser is not blocking the site.
+Return to [https://krish081208.github.io](https://krish081208.github.io) and try again from that page. Make sure your browser is not blocking the site.
 
 **Windows shows a security prompt.**
 This is normal for software you have just downloaded. Choose the option that allows the application to run.
